@@ -1,5 +1,5 @@
 # ALUMNI-PORTAL
-This is a flask based ALUMNI-PORTAL built for IIITD'S use
+This is a flask based ALUMNI-PORTAL built for IIITD'S use<br><br>
 ![alt text](https://raw.githubusercontent.com/asmitks/IIITD_ALUMNI_PORTAL/master/alumni.jpeg)
 ## Tools Used
 - Python 3.5
