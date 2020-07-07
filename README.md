@@ -1,7 +1,7 @@
 # ALUMNI-PORTAL
 This is a flask based ALUMNI-PORTAL built for IIITD'S use<br><br>
-<center>![alt text](https://raw.githubusercontent.com/asmitks/IIITD_ALUMNI_PORTAL/master/alumni.jpeg)
-</center>
+![alt text](https://raw.githubusercontent.com/asmitks/IIITD_ALUMNI_PORTAL/master/alumni.jpeg)
+
 <br>
 ![alt text](https://raw.githubusercontent.com/asmitks/IIITD_ALUMNI_PORTAL/master/login.png)
 ![alt text](https://raw.githubusercontent.com/asmitks/IIITD_ALUMNI_PORTAL/master/logged.png)
